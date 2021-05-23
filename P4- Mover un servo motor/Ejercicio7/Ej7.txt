@@ -1,0 +1,5 @@
+Conclusión:
+
+El servo empieza por una posición inicial y gira hasta 180 grados en una dirección.
+El bucle for nos permite que cuando acabe el primer bucle vuelve a girar 180 grados
+en dirección contraria creando un bucle infinito.
